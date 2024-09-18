@@ -1,0 +1,26 @@
+<resources>
+    <string name="root_url">http://10.13.4.13:3000/api/stroke</string>
+    <string name="app_name">Stroke Prediction</string>
+
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="hypertension">
+        <item>doesn\'t have hypertension</item>
+        <item>has hypertension</item>
+    </string-array>
+
+    <string-array name="heartdisease">
+        <item>doesn\'t have any heart diseases</item>
+        <item>has a heart disease</item>
+    </string-array>
+
+    <string-array name="smoke">
+        <item>never smoked</item>
+        <item>Unknown</item>
+        <item>formerly smoked</item>
+        <item>smokes</item>
+    </string-array>
+</resources>
